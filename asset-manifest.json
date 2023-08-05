@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Alinchyk/TodoList/static/css/main.7acaea2f.css",
+    "main.js": "/Alinchyk/TodoList/static/js/main.07d3183d.js",
+    "index.html": "/Alinchyk/TodoList/index.html",
+    "main.7acaea2f.css.map": "/Alinchyk/TodoList/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Alinchyk/TodoList/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
